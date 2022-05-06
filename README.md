@@ -1,2 +1,3 @@
-# experimental-video-with-cables
+# Experimental Video with Cables.gl
 Workshop using Cables.gl
+
