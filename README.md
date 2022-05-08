@@ -6,9 +6,9 @@ Cables is a visual and code based programming tool for creating interactive cont
 
 # **Requirements**
 
-- Cables account - [cables.gl](https://cables.gl/)
-- Github repo - [https://github.com/matt0rtega/experimental-video-with-cables](https://github.com/matt0rtega/experimental-video-with-cables)
-- Parameter Discord signup - [https://discord.gg/QB4q6yeJ](https://discord.gg/QB4q6yeJ)
+- Create Cables.gl account - [cables.gl](https://cables.gl/)
+- Download Github repo - [https://github.com/matt0rtega/experimental-video-with-cables](https://github.com/matt0rtega/experimental-video-with-cables)
+- Sign up Parameter Discord - [https://discord.gg/QB4q6yeJ](https://discord.gg/QB4q6yeJ)
     - This will allow us to ask question and share our work at the end of the workshop
 - Link to the presentation - https://pitchdeck.hypermatic.com/slides/l2wyml0c61043?token=fiZmdWQpRHZ9QGVPVVg=
 
